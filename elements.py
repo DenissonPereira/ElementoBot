@@ -58,7 +58,38 @@ elementos = {
         "\nNome: Nitrogênio; \nSímbolo: N; \nNúmero atômico: 7; \nMassa atômica: 14,01; \nDistribuição eletrônica: 1s² 2s² 2p³", 
         "\nNome: Nitrogênio; \nSímbolo: N;  \nZ: 7; \nA: 14,01; \nDistribuição eletrônica: 1"
     ],
-    
+        "8": [
+        "\nNome: Oxigênio; \nSímbolo: O; \nNúmero atômico: 8; \nMassa atômica: 15,999; \nDistribuição eletrônica: 1s² 2s² 2p⁴", 
+        "\nNome: Oxigênio; \nSímbolo: O;  \nZ: 8; \nA: 15,999; \nDistribuição eletrônica: 1"
+    ],
+    "oxigenio": [
+        "\nNome: Oxigênio; \nSímbolo: O; \nNúmero atômico: 8; \nMassa atômica: 15,999; \nDistribuição eletrônica: 1s² 2s² 2p⁴", 
+        "\nNome: Oxigênio; \nSímbolo: O;  \nZ: 8; \nA: 15,999; \nDistribuição eletrônica: 1"
+    ],
+    "9": [
+        "\nNome: Flúor; \nSímbolo: F; \nNúmero atômico: 9; \nMassa atômica: 18,998; \nDistribuição eletrônica: 1s² 2s² 2p⁵", 
+        "\nNome: Flúor; \nSímbolo: F;  \nZ: 9; \nA: 18,998; \nDistribuição eletrônica: 1"
+    ],
+    "fluor": [
+        "\nNome: Flúor; \nSímbolo: F; \nNúmero atômico: 9; \nMassa atômica: 18,998; \nDistribuição eletrônica: 1s² 2s² 2p⁵", 
+        "\nNome: Flúor; \nSímbolo: F;  \nZ: 9; \nA: 18,998; \nDistribuição eletrônica: 1"
+    ],
+    "10": [
+        "\nNome: Néon; \nSímbolo: Ne; \nNúmero atômico: 10; \nMassa atômica: 20,180; \nDistribuição eletrônica: 1s² 2s² 2p⁶", 
+        "\nNome: Néon; \nSímbolo: Ne;  \nZ: 10; \nA: 20,180; \nDistribuição eletrônica: 1"
+    ],
+    "neon": [
+        "\nNome: Néon; \nSímbolo: Ne; \nNúmero atômico: 10; \nMassa atômica: 20,180; \nDistribuição eletrônica: 1s² 2s² 2p⁶", 
+        "\nNome: Néon; \nSímbolo: Ne;  \nZ: 10; \nA: 20,180; \nDistribuição eletrônica: 1"
+    ],
+    "11": [
+        "\nNome: Sódio; \nSímbolo: Na; \nNúmero atômico: 11; \nMassa atômica: 22,990; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s¹", 
+        "\nNome: Sódio; \nSímbolo: Na;  \nZ: 11; \nA: 22,990; \nDistribuição eletrônica: 1"
+    ],
+    "sodio": [
+        "\nNome: Sódio; \nSímbolo: Na; \nNúmero atômico: 11; \nMassa atômica: 22,990; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s¹", 
+        "\nNome: Sódio; \nSímbolo: Na;  \nZ: 11; \nA: 22,990; \nDistribuição eletrônica: 1"
+    ],
 
 
 }
