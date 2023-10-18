@@ -1,5 +1,6 @@
 from elements import elementos as el
 
+nome = str(input("Qual o seu nome? "))
 erro = "Desculpe, não entendi. Digite o nome de um elemento válido!"
 
 def respostas(entrada):
@@ -8,11 +9,11 @@ def respostas(entrada):
     return saida
 
 def chat():
-    print("Olá! Eu sou o ElementoBot. Digite o nome de algum elemento para saber suas propriedades ou diga 'tchau' para sair.")
+    print("Olá, {}! Eu sou o ElementoBot. Digite o nome de algum elemento para saber suas propriedades ou diga 'tchau' para sair.".format(nome))
     while True:
-        entrada = input("Você: ")
+        entrada = input("{}: ".format(nome))
         if entrada.lower() == "tchau":
-            print("ElementoBot: Até mais!")
+            print("ElementoBot: Até mais, {}!".format(nome))
             break
         saida = respostas(entrada)
         print("ElementoBot: ", saida)
