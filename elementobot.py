@@ -12,7 +12,7 @@ def respostas(entrada):
     return saida
 
 def chat():
-    print("Olá, {}! Eu sou o ElementoBot. Digite o nome de algum elemento para saber suas propriedades ou diga 'tchau' para sair.".format(nome))
+    print("Olá, {}! Eu sou o ElementoBot. Digite o nome ou número atômico de algum elemento para saber suas propriedades. Diga 'tchau' ou 'bye' para sair.".format(nome))
     while True:
         entrada = input("{}: ".format(nome))
         if entrada.lower() == "tchau" or entrada.lower() == "bye":
