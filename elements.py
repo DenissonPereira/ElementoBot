@@ -90,6 +90,38 @@ elementos = {
         "\nNome: Sódio; \nSímbolo: Na; \nNúmero atômico: 11; \nMassa atômica: 22,990; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s¹", 
         "\nNome: Sódio; \nSímbolo: Na;  \nZ: 11; \nA: 22,990; \nDistribuição eletrônica: 1"
     ],
+        "12": [
+        "\nNome: Magnésio; \nSímbolo: Mg; \nNúmero atômico: 12; \nMassa atômica: 24,305; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s²", 
+        "\nNome: Magnésio; \nSímbolo: Mg;  \nZ: 12; \nA: 24,305; \nDistribuição eletrônica: 1"
+    ],
+    "magnesio": [
+        "\nNome: Magnésio; \nSímbolo: Mg; \nNúmero atômico: 12; \nMassa atômica: 24,305; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s²", 
+        "\nNome: Magnésio; \nSímbolo: Mg;  \nZ: 12; \nA: 24,305; \nDistribuição eletrônica: 1"
+    ],
+    "13": [
+        "\nNome: Alumínio; \nSímbolo: Al; \nNúmero atômico: 13; \nMassa atômica: 26,982; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p¹", 
+        "\nNome: Alumínio; \nSímbolo: Al;  \nZ: 13; \nA: 26,982; \nDistribuição eletrônica: 1"
+    ],
+    "aluminio": [
+        "\nNome: Alumínio; \nSímbolo: Al; \nNúmero atômico: 13; \nMassa atômica: 26,982; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p¹", 
+        "\nNome: Alumínio; \nSímbolo: Al;  \nZ: 13; \nA: 26,982; \nDistribuição eletrônica: 1"
+    ],
+    "14": [
+        "\nNome: Silício; \nSímbolo: Si; \nNúmero atômico: 14; \nMassa atômica: 28,085; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p²", 
+        "\nNome: Silício; \nSímbolo: Si;  \nZ: 14; \nA: 28,085; \nDistribuição eletrônica: 1"
+    ],
+    "silicio": [
+        "\nNome: Silício; \nSímbolo: Si; \nNúmero atômico: 14; \nMassa atômica: 28,085; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p²", 
+        "\nNome: Silício; \nSímbolo: Si;  \nZ: 14; \nA: 28,085; \nDistribuição eletrônica: 1"
+    ],
+    "15": [
+        "\nNome: Fósforo; \nSímbolo: P; \nNúmero atômico: 15; \nMassa atômica: 30,974; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p³", 
+        "\nNome: Fósforo; \nSímbolo: P;  \nZ: 15; \nA: 30,974; \nDistribuição eletrônica: 1"
+    ],
+    "fosforo": [
+        "\nNome: Fósforo; \nSímbolo: P; \nNúmero atômico: 15; \nMassa atômica: 30,974; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p³", 
+        "\nNome: Fósforo; \nSímbolo: P;  \nZ: 15; \nA: 30,974; \nDistribuição eletrônica: 1"
+    ],
 
 
 }
