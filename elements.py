@@ -26,7 +26,7 @@ elementos = {
         "\nNome: Lítio; \nSímbolo: Li; \nNúmero atômico: 3; \nMassa atômica: 6,941; \nDistribuição eletrônica: 1s² 2s¹", 
         "\nNome: Lítio; \nSímbolo: Li;  \nZ: 3; \nA: 6,941; \nDistribuição eletrônica: 1"
     ],
-        "4": [
+    "4": [
         "\nNome: Berílio; \nSímbolo: Be; \nNúmero atômico: 4; \nMassa atômica: 9,0122; \nDistribuição eletrônica: 1s² 2s²", 
         "\nNome: Berílio; \nSímbolo: Be;  \nZ: 4; \nA: 9,0122; \nDistribuição eletrônica: 1"
     ],
@@ -58,7 +58,7 @@ elementos = {
         "\nNome: Nitrogênio; \nSímbolo: N; \nNúmero atômico: 7; \nMassa atômica: 14,01; \nDistribuição eletrônica: 1s² 2s² 2p³", 
         "\nNome: Nitrogênio; \nSímbolo: N;  \nZ: 7; \nA: 14,01; \nDistribuição eletrônica: 1"
     ],
-        "8": [
+    "8": [
         "\nNome: Oxigênio; \nSímbolo: O; \nNúmero atômico: 8; \nMassa atômica: 15,999; \nDistribuição eletrônica: 1s² 2s² 2p⁴", 
         "\nNome: Oxigênio; \nSímbolo: O;  \nZ: 8; \nA: 15,999; \nDistribuição eletrônica: 1"
     ],
@@ -90,7 +90,7 @@ elementos = {
         "\nNome: Sódio; \nSímbolo: Na; \nNúmero atômico: 11; \nMassa atômica: 22,990; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s¹", 
         "\nNome: Sódio; \nSímbolo: Na;  \nZ: 11; \nA: 22,990; \nDistribuição eletrônica: 1"
     ],
-        "12": [
+    "12": [
         "\nNome: Magnésio; \nSímbolo: Mg; \nNúmero atômico: 12; \nMassa atômica: 24,305; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s²", 
         "\nNome: Magnésio; \nSímbolo: Mg;  \nZ: 12; \nA: 24,305; \nDistribuição eletrônica: 1"
     ],
@@ -122,6 +122,32 @@ elementos = {
         "\nNome: Fósforo; \nSímbolo: P; \nNúmero atômico: 15; \nMassa atômica: 30,974; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p³", 
         "\nNome: Fósforo; \nSímbolo: P;  \nZ: 15; \nA: 30,974; \nDistribuição eletrônica: 1"
     ],
+    "16": [
+        "\nNome: Enxofre; \nSímbolo: S; \nNúmero atômico: 16; \nMassa atômica: 32,06; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁴", 
+        "\nNome: Enxofre; \nSímbolo: S;  \nZ: 16; \nA: 32,06; \nDistribuição eletrônica: 1"
+    ],
+    "enxofre": [
+        "\nNome: Enxofre; \nSímbolo: S; \nNúmero atômico: 16; \nMassa atômica: 32,06; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁴", 
+        "\nNome: Enxofre; \nSímbolo: S;  \nZ: 16; \nA: 32,06; \nDistribuição eletrônica: 1"
+    ],
+    "17": [
+        "\nNome: Cloro; \nSímbolo: Cl; \nNúmero atômico: 17; \nMassa atômica: 35,45; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁵", 
+        "\nNome: Cloro; \nSímbolo: Cl;  \nZ: 17; \nA: 35,45; \nDistribuição eletrônica: 1"
+    ],
+    "cloro": [
+        "\nNome: Cloro; \nSímbolo: Cl; \nNúmero atômico: 17; \nMassa atômica: 35,45; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁵", 
+        "\nNome: Cloro; \nSímbolo: Cl;  \nZ: 17; \nA: 35,45; \nDistribuição eletrônica: 1"
+    ],
+    "18": [
+        "\nNome: Argônio; \nSímbolo: Ar; \nNúmero atômico: 18; \nMassa atômica: 39,95; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶", 
+        "\nNome: Argônio; \nSímbolo: Ar;  \nZ: 18; \nA: 39,95; \nDistribuição eletrônica: 1"
+    ],
+    "argonio": [
+        "\nNome: Argônio; \nSímbolo: Ar; \nNúmero atômico: 18; \nMassa atômica: 39,95; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶", 
+        "\nNome: Argônio; \nSímbolo: Ar;  \nZ: 18; \nA: 39,95; \nDistribuição eletrônica: 1"
+    ],
+
+
 
 
 }
