@@ -1,11 +1,12 @@
 from elements import elementos as el
 import random
+from unidecode import unidecode
 
 nome = str(input("Qual o seu nome? "))
 erro = "Desculpe, não entendi. Digite o nome de um elemento válido!"
 
 def respostas(entrada):
-    entrada = entrada.lower()
+    entrada = unidecode(entrada.lower())
     saidas = el.get(entrada, erro)
     saida = random.choice(saidas)
     return saida
