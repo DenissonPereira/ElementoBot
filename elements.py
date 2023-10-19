@@ -146,7 +146,102 @@ elementos = {
         "\nNome: Argônio; \nSímbolo: Ar; \nNúmero atômico: 18; \nMassa atômica: 39,95; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶", 
         "\nNome: Argônio; \nSímbolo: Ar;  \nZ: 18; \nA: 39,95; \nDistribuição eletrônica: 1"
     ],
-
+    "19": [
+        "\nNome: Potássio; \nSímbolo: K; \nNúmero atômico: 19; \nMassa atômica: 39,10; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹",
+        "\nNome: Potássio; \nSímbolo: K; \nZ: 19; \nA: 39,10; \nDistribuição eletrônica: 1"
+    ],
+    "potassio": [
+        "\nNome: Potássio; \nSímbolo: K; \nNúmero atômico: 19; \nMassa atômica: 39,10; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹",
+        "\nNome: Potássio; \nSímbolo: K; \nZ: 19; \nA: 39,10; \nDistribuição eletrônica: 1"
+    ],
+    "20": [
+        "\nNome: Cálcio; \nSímbolo: Ca; \nNúmero atômico: 20; \nMassa atômica: 40,08; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s²",
+        "\nNome: Cálcio; \nSímbolo: Ca; \nZ: 20; \nA: 40,08; \nDistribuição eletrônica: 1"
+    ],
+    "calcio": [
+        "\nNome: Cálcio; \nSímbolo: Ca; \nNúmero atômico: 20; \nMassa atômica: 40,08; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s²",
+        "\nNome: Cálcio; \nSímbolo: Ca; \nZ: 20; \nA: 40,08; \nDistribuição eletrônica: 1"
+    ],
+    "21": [
+        "\nNome: Escândio; \nSímbolo: Sc; \nNúmero atômico: 21; \nMassa atômica: 44,96; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹",
+        "\nNome: Escândio; \nSímbolo: Sc; \nZ: 21; \nA: 44,96; \nDistribuição eletrônica: 1"
+    ],
+    "escandio": [
+        "\nNome: Escândio; \nSímbolo: Sc; \nNúmero atômico: 21; \nMassa atômica: 44,96; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹",
+        "\nNome: Escândio; \nSímbolo: Sc; \nZ: 21; \nA: 44,96; \nDistribuição eletrônica: 1"
+    ],
+    "22": [
+        "\nNome: Titânio; \nSímbolo: Ti; \nNúmero atômico: 22; \nMassa atômica: 47,87; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d²",
+        "\nNome: Titânio; \nSímbolo: Ti; \nZ: 22; \nA: 47,87; \nDistribuição eletrônica: 1"
+    ],
+    "titanio": [
+        "\nNome: Titânio; \nSímbolo: Ti; \nNúmero atômico: 22; \nMassa atômica: 47,87; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d²",
+        "\nNome: Titânio; \nSímbolo: Ti; \nZ: 22; \nA: 47,87; \nDistribuição eletrônica: 1"
+    ],
+    "23": [
+        "\nNome: Vanádio; \nSímbolo: V; \nNúmero atômico: 23; \nMassa atômica: 50,94; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d³",
+        "\nNome: Vanádio; \nSímbolo: V; \nZ: 23; \nA: 50,94; \nDistribuição eletrônica: 1"
+    ],
+    "vanadio": [
+        "\nNome: Vanádio; \nSímbolo: V; \nNúmero atômico: 23; \nMassa atômica: 50,94; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d³",
+        "\nNome: Vanádio; \nSímbolo: V; \nZ: 23; \nA: 50,94; \nDistribuição eletrônica: 1"
+    ],
+    "24": [
+        "\nNome: Cromo; \nSímbolo: Cr; \nNúmero atômico: 24; \nMassa atômica: 51,99; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁴",
+        "\nNome: Cromo; \nSímbolo: Cr; \nZ: 24; \nA: 51,99; \nDistribuição eletrônica: 1"
+    ],
+    "cromo": [
+        "\nNome: Cromo; \nSímbolo: Cr; \nNúmero atômico: 24; \nMassa atômica: 51,99; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁴",
+        "\nNome: Cromo; \nSímbolo: Cr; \nZ: 24; \nA: 51,99; \nDistribuição eletrônica: 1"
+    ],
+    "25": [
+        "\nNome: Manganês; \nSímbolo: Mn; \nNúmero atômico: 25; \nMassa atômica: 54,94; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁵",
+        "\nNome: Manganês; \nSímbolo: Mn; \nZ: 25; \nA: 54,94; \nDistribuição eletrônica: 1"
+    ],
+    "manganes": [
+        "\nNome: Manganês; \nSímbolo: Mn; \nNúmero atômico: 25; \nMassa atômica: 54,94; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁵",
+        "\nNome: Manganês; \nSímbolo: Mn; \nZ: 25; \nA: 54,94; \nDistribuição eletrônica: 1"
+    ],
+    "26": [
+        "\nNome: Ferro; \nSímbolo: Fe; \nNúmero atômico: 26; \nMassa atômica: 55,85; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁶",
+        "\nNome: Ferro; \nSímbolo: Fe; \nZ: 26; \nA: 55,85; \nDistribuição eletrônica: 1"
+    ],
+    "ferro": [
+        "\nNome: Ferro; \nSímbolo: Fe; \nNúmero atômico: 26; \nMassa atômica: 55,85; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁶",
+        "\nNome: Ferro; \nSímbolo: Fe; \nZ: 26; \nA: 55,85; \nDistribuição eletrônica: 1"
+    ],
+    "27": [
+        "\nNome: Cobalto; \nSímbolo: Co; \nNúmero atômico: 27; \nMassa atômica: 58,93; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁷",
+        "\nNome: Cobalto; \nSímbolo: Co; \nZ: 27; \nA: 58,93; \nDistribuição eletrônica: 1"
+    ],
+    "cobalto": [
+        "\nNome: Cobalto; \nSímbolo: Co; \nNúmero atômico: 27; \nMassa atômica: 58,93; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁷",
+        "\nNome: Cobalto; \nSímbolo: Co; \nZ: 27; \nA: 58,93; \nDistribuição eletrônica: 1"
+    ],
+    "28": [
+        "\nNome: Níquel; \nSímbolo: Ni; \nNúmero atômico: 28; \nMassa atômica: 58,69; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁸",
+        "\nNome: Níquel; \nSímbolo: Ni; \nZ: 28; \nA: 58,69; \nDistribuição eletrônica: 1"
+    ],
+    "niquel": [
+        "\nNome: Níquel; \nSímbolo: Ni; \nNúmero atômico: 28; \nMassa atômica: 58,69; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁸",
+        "\nNome: Níquel; \nSímbolo: Ni; \nZ: 28; \nA: 58,69; \nDistribuição eletrônica: 1"
+    ],
+    "29": [
+        "\nNome: Cobre; \nSímbolo: Cu; \nNúmero atômico: 29; \nMassa atômica: 63,55; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁹",
+        "\nNome: Cobre; \nSímbolo: Cu; \nZ: 29; \nA: 63,55; \nDistribuição eletrônica: 1"
+    ],
+    "cobre": [
+        "\nNome: Cobre; \nSímbolo: Cu; \nNúmero atômico: 29; \nMassa atômica: 63,55; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁹",
+        "\nNome: Cobre; \nSímbolo: Cu; \nZ: 29; \nA: 63,55; \nDistribuição eletrônica: 1"
+    ],
+    "30": [
+        "\nNome: Zinco; \nSímbolo: Zn; \nNúmero atômico: 30; \nMassa atômica: 65,38; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹0",
+        "\nNome: Zinco; \nSímbolo: Zn; \nZ: 30; \nA: 65,38; \nDistribuição eletrônica: 1"
+    ],
+    "zinco": [
+        "\nNome: Zinco; \nSímbolo: Zn; \nNúmero atômico: 30; \nMassa atômica: 65,38; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹0",
+        "\nNome: Zinco; \nSímbolo: Zn; \nZ: 30; \nA: 65,38; \nDistribuição eletrônica: 1"
+    ],
 
 
 
