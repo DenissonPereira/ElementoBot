@@ -7,9 +7,11 @@ erro = "Desculpe, não entendi. Digite o nome de um elemento válido!"
 
 def respostas(entrada):
     entrada = unidecode(entrada.lower())
-    saidas = el.get(entrada, erro)
-    saida = random.choice(saidas)
-    return saida
+    saidas = el.get(entrada)
+    if saidas is None:
+        return erro
+    return random.choice(saidas)
+
 
 def chat():
     print("Olá, {}! Eu sou o ElementoBot. Digite o nome ou número atômico de algum elemento para saber suas propriedades. Diga 'tchau' ou 'bye' para sair.".format(nome))
