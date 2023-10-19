@@ -242,7 +242,94 @@ elementos = {
         "\nNome: Zinco; \nSímbolo: Zn; \nNúmero atômico: 30; \nMassa atômica: 65,38; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹0",
         "\nNome: Zinco; \nSímbolo: Zn; \nZ: 30; \nA: 65,38; \nDistribuição eletrônica: 2, 8, 18, 2"
     ],
-
+        "30": [
+        "\nNome: Zinco; \nSímbolo: Zn; \nNúmero atômico: 30; \nMassa atômica: 65,38; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰",
+        "\nNome: Zinco; \nSímbolo: Zn; \nZ: 30; \nA: 65,38; \nDistribuição eletrônica: 2, 8, 18, 2"
+    ],
+    "zinco": [
+        "\nNome: Zinco; \nSímbolo: Zn; \nNúmero atômico: 30; \nMassa atômica: 65,38; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰",
+        "\nNome: Zinco; \nSímbolo: Zn; \nZ: 30; \nA: 65,38; \nDistribuição eletrônica: 2, 8, 18, 2"
+    ],
+    "31": [
+        "\nNome: Gálio; \nSímbolo: Ga; \nNúmero atômico: 31; \nMassa atômica: 69,72; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰",
+        "\nNome: Gálio; \nSímbolo: Ga; \nZ: 31; \nA: 69,72; \nDistribuição eletrônica: 2, 8, 18, 3"
+    ],
+    "galio": [
+        "\nNome: Gálio; \nSímbolo: Ga; \nNúmero atômico: 31; \nMassa atômica: 69,72; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰",
+        "\nNome: Gálio; \nSímbolo: Ga; \nZ: 31; \nA: 69,72; \nDistribuição eletrônica: 2, 8, 18, 3"
+    ],
+    "32": [
+        "\nNome: Germânio; \nSímbolo: Ge; \nNúmero atômico: 32; \nMassa atômica: 72,63; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p²",
+        "\nNome: Germânio; \nSímbolo: Ge; \nZ: 32; \nA: 72,63; \nDistribuição eletrônica: 2, 8, 18, 4"
+    ],
+    "germanio": [
+        "\nNome: Germânio; \nSímbolo: Ge; \nNúmero atômico: 32; \nMassa atômica: 72,63; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p²",
+        "\nNome: Germânio; \nSímbolo: Ge; \nZ: 32; \nA: 72,63; \nDistribuição eletrônica: 2, 8, 18, 4"
+    ],
+    "33": [
+        "\nNome: Arsênio; \nSímbolo: As; \nNúmero atômico: 33; \nMassa atômica: 74,92; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p³",
+        "\nNome: Arsênio; \nSímbolo: As; \nZ: 33; \nA: 74,92; \nDistribuição eletrônica: 2, 8, 18, 5"
+    ],
+    "arsenio": [
+        "\nNome: Arsênio; \nSímbolo: As; \nNúmero atômico: 33; \nMassa atômica: 74,92; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p³",
+        "\nNome: Arsênio; \nSímbolo: As; \nZ: 33; \nA: 74,92; \nDistribuição eletrônica: 2, 8, 18, 5"
+    ],
+    "34": [
+        "\nNome: Selênio; \nSímbolo: Se; \nNúmero atômico: 34; \nMassa atômica: 78,96; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁴",
+        "\nNome: Selênio; \nSímbolo: Se; \nZ: 34; \nA: 78,96; \nDistribuição eletrônica: 2, 8, 18, 6"
+    ],
+    "selenio": [
+        "\nNome: Selênio; \nSímbolo: Se; \nNúmero atômico: 34; \nMassa atômica: 78,96; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁴",
+        "\nNome: Selênio; \nSímbolo: Se; \nZ: 34; \nA: 78,96; \nDistribuição eletrônica: 2, 8, 18, 6"
+    ],
+    "35": [
+        "\nNome: Bromo; \nSímbolo: Br; \nNúmero atômico: 35; \nMassa atômica: 79,90; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁵",
+        "\nNome: Bromo; \nSímbolo: Br; \nZ: 35; \nA: 79,90; \nDistribuição eletrônica: 2, 8, 18, 7"
+    ],
+    "bromo": [
+        "\nNome: Bromo; \nSímbolo: Br; \nNúmero atômico: 35; \nMassa atômica: 79,90; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁵",
+        "\nNome: Bromo; \nSímbolo: Br; \nZ: 35; \nA: 79,90; \nDistribuição eletrônica: 2, 8, 18, 7"
+    ],
+    "36": [
+        "\nNome: Criptônio; \nSímbolo: Kr; \nNúmero atômico: 36; \nMassa atômica: 83,80; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶",
+        "\nNome: Criptônio; \nSímbolo: Kr; \nZ: 36; \nA: 83,80; \nDistribuição eletrônica: 2, 8, 18, 8"
+    ],
+    "criptonio": [
+        "\nNome: Criptônio; \nSímbolo: Kr; \nNúmero atômico: 36; \nMassa atômica: 83,80; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶",
+        "\nNome: Criptônio; \nSímbolo: Kr; \nZ: 36; \nA: 83,80; \nDistribuição eletrônica: 2, 8, 18, 8"
+    ],
+    "37": [
+        "\nNome: Rubídio; \nSímbolo: Rb; \nNúmero atômico: 37; \nMassa atômica: 85,47; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹",
+        "\nNome: Rubídio; \nSímbolo: Rb; \nZ: 37; \nA: 85,47; \nDistribuição eletrônica: 2, 8, 18, 8, 1"
+    ],
+    "rubidio": [
+        "\nNome: Rubídio; \nSímbolo: Rb; \nNúmero atômico: 37; \nMassa atômica: 85,47; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹",
+        "\nNome: Rubídio; \nSímbolo: Rb; \nZ: 37; \nA: 85,47; \nDistribuição eletrônica: 2, 8, 18, 8, 1"
+    ],
+    "38": [
+        "\nNome: Estrôncio; \nSímbolo: Sr; \nNúmero atômico: 38; \nMassa atômica: 87,62; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s²",
+        "\nNome: Estrôncio; \nSímbolo: Sr; \nZ: 38; \nA: 87,62; \nDistribuição eletrônica: 2, 8, 18, 8, 2"
+    ],
+    "estroncio": [
+        "\nNome: Estrôncio; \nSímbolo: Sr; \nNúmero atômico: 38; \nMassa atômica: 87,62; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s²",
+        "\nNome: Estrôncio; \nSímbolo: Sr; \nZ: 38; \nA: 87,62; \nDistribuição eletrônica: 2, 8, 18, 8, 2"
+    ],
+    "39": [
+        "\nNome: Ítrio; \nSímbolo: Y; \nNúmero atômico: 39; \nMassa atômica: 88,91; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹",
+        "\nNome: Ítrio; \nSímbolo: Y; \nZ: 39; \nA: 88,91; \nDistribuição eletrônica: 2, 8, 18, 9, 2"
+    ],
+    "itrio": [
+        "\nNome: Ítrio; \nSímbolo: Y; \nNúmero atômico: 39; \nMassa atômica: 88,91; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹",
+        "\nNome de Ítrio; \nSímbolo: Y; \nZ: 39; \nA: 88,91; \nDistribuição eletrônica: 2, 8, 18, 9, 2"
+    ],
+    "40": [
+        "\nNome: Zircônio; \nSímbolo: Zr; \nNúmero atômico: 40; \nMassa atômica: 91,22; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d²",
+        "\nNome: Zircônio; \nSímbolo: Zr; \nZ: 40; \nA: 91,22; \nDistribuição eletrônica: 2, 8, 18, 10, 2"
+    ],
+    "zirconio": [
+        "\nNome: Zircônio; \nSímbolo: Zr; \nNúmero atômico: 40; \nMassa atômica: 91,22; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d²",
+        "\nNome: Zircônio; \nSímbolo: Zr; \nZ: 40; \nA: 91,22; \nDistribuição eletrônica: 2, 8, 18, 10, 2"
+    ],
 
 
 }
