@@ -330,6 +330,85 @@ elementos = {
         "\nNome: Zircônio; \nSímbolo: Zr; \nNúmero atômico: 40; \nMassa atômica: 91,22; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d²",
         "\nNome: Zircônio; \nSímbolo: Zr; \nZ: 40; \nA: 91,22; \nDistribuição eletrônica: 2, 8, 18, 10, 2"
     ],
-
+        "41": [
+        "\nNome: Nióbio; \nSímbolo: Nb; \nNúmero atômico: 41; \nMassa atômica: 92,91; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁴",
+        "\nNome: Nióbio; \nSímbolo: Nb; \nZ: 41; \nA: 92,91; \nDistribuição eletrônica: 2, 8, 18, 12, 1"
+    ],
+    "niobio": [
+        "\nNome: Nióbio; \nSímbolo: Nb; \nNúmero atômico: 41; \nMassa atômica: 92,91; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁴",
+        "\nNome: Nióbio; \nSímbolo: Nb; \nZ: 41; \nA: 92,91; \nDistribuição eletrônica: 2, 8, 18, 12, 1"
+    ],
+    "42": [
+        "\nNome: Molibdênio; \nSímbolo: Mo; \nNúmero atômico: 42; \nMassa atômica: 95,95; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁵",
+        "\nNome: Molibdênio; \nSímbolo: Mo; \nZ: 42; \nA: 95,95; \nDistribuição eletrônica: 2, 8, 18, 13, 1"
+    ],
+    "molibdenio": [
+        "\nNome: Molibdênio; \nSímbolo: Mo; \nNúmero atômico: 42; \nMassa atômica: 95,95; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁵",
+        "\nNome: Molibdênio; \nSímbolo: Mo; \nZ: 42; \nA: 95,95; \nDistribuição eletrônica: 2, 8, 18, 13, 1"
+    ],
+    "43": [
+        "\nNome: Tecnécio; \nSímbolo: Tc; \nNúmero atômico: 43; \nMassa atômica: 98,0; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁵",
+        "\nNome: Tecnécio; \nSímbolo: Tc; \nZ: 43; \nA: 98,0; \nDistribuição eletrônica: 2, 8, 18, 13, 2"
+    ],
+    "tecnecio": [
+        "\nNome: Tecnécio; \nSímbolo: Tc; \nNúmero atômico: 43; \nMassa atômica: 98,0; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁵",
+        "\nNome: Tecnécio; \nSímbolo: Tc; \nZ: 43; \nA: 98,0; \nDistribuição eletrônica: 2, 8, 18, 13, 2"
+    ],
+    "44": [
+        "\nNome: Rutênio; \nSímbolo: Ru; \nNúmero atômico: 44; \nMassa atômica: 101,1; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁶",
+        "\nNome: Rutênio; \nSímbolo: Ru; \nZ: 44; \nA: 101,1; \nDistribuição eletrônica: 2, 8, 18, 15, 1"
+    ],
+    "rutenio": [
+        "\nNome: Rutênio; \nSímbolo: Ru; \nNúmero atômico: 44; \nMassa atômica: 101,1; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁶",
+        "\nNome: Rutênio; \nSímbolo: Ru; \nZ: 44; \nA: 101,1; \nDistribuição eletrônica: 2, 8, 18, 15, 1"
+    ],
+    "45": [
+        "\nNome: Ródio; \nSímbolo: Rh; \nNúmero atômico: 45; \nMassa atômica: 102,9; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁷",
+        "\nNome: Ródio; \nSímbolo: Rh; \nZ: 45; \nA: 102,9; \nDistribuição eletrônica: 2, 8, 18, 16, 1"
+    ],
+    "rodio": [
+        "\nNome: Ródio; \nSímbolo: Rh; \nNúmero atômico: 45; \nMassa atômica: 102,9; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁷",
+        "\nNome: Ródio; \nSímbolo: Rh; \nZ: 45; \nA: 102,9; \nDistribuição eletrônica: 2, 8, 18, 16, 1"
+    ],
+    "46": [
+        "\nNome: Paládio; \nSímbolo: Pd; \nNúmero atômico: 46; \nMassa atômica: 106,4; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁸",
+        "\nNome: Paládio; \nSímbolo: Pd; \nZ: 46; \nA: 106,4; \nDistribuição eletrônica: 2, 8, 18, 18, 0"
+    ],
+    "paladio": [
+        "\nNome: Paládio; \nSímbolo: Pd; \nNúmero atômico: 46; \nMassa atômica: 106,4; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁸",
+        "\nNome: Paládio; \nSímbolo: Pd; \nZ: 46; \nA: 106,4; \nDistribuição eletrônica: 2, 8, 18, 18, 0"
+    ],
+    "47": [
+        "\nNome: Prata; \nSímbolo: Ag; \nNúmero atômico: 47; \nMassa atômica: 107,9; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁸",
+        "\nNome: Prata; \nSímbolo: Ag; \nZ: 47; \nA: 107,9; \nDistribuição eletrônica: 2, 8, 18, 18, 1"
+    ],
+    "prata": [
+        "\nNome: Prata; \nSímbolo: Ag; \nNúmero atômico: 47; \nMassa atômica: 107,9; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁸",
+        "\nNome: Prata; \nSímbolo: Ag; \nZ: 47; \nA: 107,9; \nDistribuição eletrônica: 2, 8, 18, 18, 1"
+    ],
+    "48": [
+        "\nNome: Cádmio; \nSímbolo: Cd; \nNúmero atômico: 48; \nMassa atômica: 112,4; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁸",
+        "\nNome: Cádmio; \nSímbolo: Cd; \nZ: 48; \nA: 112,4; \nDistribuição eletrônica: 2, 8, 18, 18, 2"
+    ],
+    "cadmio": [
+        "\nNome: Cádmio; \nSímbolo: Cd; \nNúmero atômico: 48; \nMassa atômica: 112,4; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁸",
+        "\nNome: Cádmio; \nSímbolo: Cd; \nZ: 48; \nA: 112,4; \nDistribuição eletrônica: 2, 8, 18, 18, 2"
+    ],
+    "49": [
+        "\nNome: Índio; \nSímbolo: In; \nNúmero atômico: 49; \nMassa atômica: 114,8; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d⁸",
+        "\nNome: Índio; \nSímbolo: In; \nZ: 49; \nA: 114,8; \nDistribuição eletrônica: 2, 8, 18, 18, 3"
+    ],
+    "indio": [
+        "\nNome: Índio; \nSímbolo: In; \nNúmero atômico: 49; \nMassa atômica: 114,8; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d⁸",
+        "\nNome: Índio; \nSímbolo: In; \nZ: 49; \nA: 114,8; \nDistribuição eletrônica: 2, 8, 18, 18, 3"
+    ],
+    "50": [
+        "\nNome: Estanho; \nSímbolo: Sn; \nNúmero atômico: 50; \nMassa atômica: 118,7; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Estanho; \nSímbolo: Sn; \nZ: 50; \nA: 118,7; \nDistribuição eletrônica: 2, 8, 18, 18, 4"
+    ],
+    "estanho": [
+        "\nNome: Estanho; \nSímbolo: Sn; \nNúmero atômico: 50; \nMassa atômica: 118,7; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Estanho; \nSímbolo: Sn; \nZ: 50; \nA: 118,7; \nDistribuição eletrônica: 2, 8, 18, 18, 4"
+    ],
 
 }
