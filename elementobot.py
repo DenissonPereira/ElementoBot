@@ -8,6 +8,10 @@ erro = "Desculpe, não entendi. Digite o nome de um elemento válido!"
 def respostas(entrada):
     entrada = unidecode(entrada.lower())
     saidas = el.get(entrada)
+        # verificando palavras-chave na entrada
+    if "propriedades" in entrada:
+        # Retorna informações sobre como obter propriedades
+        saidas = ["Você pode obter as propriedades de um elemento digitando seu nome ou número atômico."]
     if saidas is None:
         return erro
     return random.choice(saidas)
