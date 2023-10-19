@@ -236,11 +236,11 @@ elementos = {
     ],
     "30": [
         "\nNome: Zinco; \nSímbolo: Zn; \nNúmero atômico: 30; \nMassa atômica: 65,38; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹0",
-        "\nNome: Zinco; \nSímbolo: Zn; \nZ: 30; \nA: 65,38; \nDistribuição eletrônica: 1"
+        "\nNome: Zinco; \nSímbolo: Zn; \nZ: 30; \nA: 65,38; \nDistribuição eletrônica: 2, 8, 18, 2"
     ],
     "zinco": [
         "\nNome: Zinco; \nSímbolo: Zn; \nNúmero atômico: 30; \nMassa atômica: 65,38; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹0",
-        "\nNome: Zinco; \nSímbolo: Zn; \nZ: 30; \nA: 65,38; \nDistribuição eletrônica: 1"
+        "\nNome: Zinco; \nSímbolo: Zn; \nZ: 30; \nA: 65,38; \nDistribuição eletrônica: 2, 8, 18, 2"
     ],
 
 

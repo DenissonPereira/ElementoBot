@@ -16,7 +16,7 @@ def chat():
     while True:
         entrada = input("{}: ".format(nome))
         if entrada.lower() == "tchau" or entrada.lower() == "bye":
-            print("ElemsentoBot: Até mais, {}!".format(nome))
+            print("ElementoBot: Até mais, {}!".format(nome))
             break
         saida = respostas(entrada)
         print("ElementoBot: ", saida)
