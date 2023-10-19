@@ -410,5 +410,85 @@ elementos = {
         "\nNome: Estanho; \nSímbolo: Sn; \nNúmero atômico: 50; \nMassa atômica: 118,7; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
         "\nNome: Estanho; \nSímbolo: Sn; \nZ: 50; \nA: 118,7; \nDistribuição eletrônica: 2, 8, 18, 18, 4"
     ],
+        "51": [
+        "\nNome: Antimônio; \nSímbolo: Sb; \nNúmero atômico: 51; \nMassa atômica: 121,8; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Antimônio; \nSímbolo: Sb; \nZ: 51; \nA: 121,8; \nDistribuição eletrônica: 2, 8, 18, 18, 5"
+    ],
+    "antimonio": [
+        "\nNome: Antimônio; \nSímbolo: Sb; \nNúmero atômico: 51; \nMassa atômica: 121,8; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Antimônio; \nSímbolo: Sb; \nZ: 51; \nA: 121,8; \nDistribuição eletrônica: 2, 8, 18, 18, 5"
+    ],
+    "52": [
+        "\nNome: Telúrio; \nSímbolo: Te; \nNúmero atômico: 52; \nMassa atômica: 127,6; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Telúrio; \nSímbolo: Te; \nZ: 52; \nA: 127,6; \nDistribuição eletrônica: 2, 8, 18, 18, 6"
+    ],
+    "telurio": [
+        "\nNome: Telúrio; \nSímbolo: Te; \nNúmero atômico: 52; \nMassa atômica: 127,6; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Telúrio; \nSímbolo: Te; \nZ: 52; \nA: 127,6; \nDistribuição eletrônica: 2, 8, 18, 18, 6"
+    ],
+    "53": [
+        "\nNome: Iódio; \nSímbolo: I; \nNúmero atômico: 53; \nMassa atômica: 126,9; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Iódio; \nSímbolo: I; \nZ: 53; \nA: 126,9; \nDistribuição eletrônica: 2, 8, 18, 18, 7"
+    ],
+    "iodio": [
+        "\nNome: Iódio; \nSímbolo: I; \nNúmero atômico: 53; \nMassa atômica: 126,9; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Iódio; \nSímbolo: I; \nZ: 53; \nA: 126,9; \nDistribuição eletrônica: 2, 8, 18, 18, 7"
+    ],
+    "54": [
+        "\nNome: Xenônio; \nSímbolo: Xe; \nNúmero atômico: 54; \nMassa atômica: 131,3; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Xenônio; \nSímbolo: Xe; \nZ: 54; \nA: 131,3; \nDistribuição eletrônica: 2, 8, 18, 18, 8"
+    ],
+    "xenonio": [
+        "\nNome: Xenônio; \nSímbolo: Xe; \nNúmero atômico: 54; \nMassa atômica: 131,3; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Xenônio; \nSímbolo: Xe; \nZ: 54; \nA: 131,3; \nDistribuição eletrônica: 2, 8, 18, 18, 8"
+    ],
+    "55": [
+        "\nNome: Césio; \nSímbolo: Cs; \nNúmero atômico: 55; \nMassa atômica: 132,9; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Césio; \nSímbolo: Cs; \nZ: 55; \nA: 132,9; \nDistribuição eletrônica: 2, 8, 18, 18, 8, 1"
+    ],
+    "cesio": [
+        "\nNome: Césio; \nSímbolo: Cs; \nNúmero atômico: 55; \nMassa atômica: 132,9; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Césio; \nSímbolo: Cs; \nZ: 55; \nA: 132,9; \nDistribuição eletrônica: 2, 8, 18, 18, 8, 1"
+    ],
+    "56": [
+        "\nNome: Bário; \nSímbolo: Ba; \nNúmero atômico: 56; \nMassa atômica: 137,3; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Bário; \nSímbolo: Ba; \nZ: 56; \nA: 137,3; \nDistribuição eletrônica: 2, 8, 18, 18, 8, 2"
+    ],
+    "bario": [
+        "\nNome: Bário; \nSímbolo: Ba; \nNúmero atômico: 56; \nMassa atômica: 137,3; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Bário; \nSímbolo: Ba; \nZ: 56; \nA: 137,3; \nDistribuição eletrônica: 2, 8, 18, 18, 8, 2"
+    ],
+    "57": [
+        "\nNome: Lantânio; \nSímbolo: La; \nNúmero atômico: 57; \nMassa atômica: 138,9; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Lantânio; \nSímbolo: La; \nZ: 57; \nA: 138,9; \nDistribuição eletrônica: 2, 8, 18, 18, 9"
+    ],
+    "lantanio": [
+        "\nNome: Lantânio; \nSímbolo: La; \nNúmero atômico: 57; \nMassa atômica: 138,9; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Lantânio; \nSímbolo: La; \nZ: 57; \nA: 138,9; \nDistribuição eletrônica: 2, 8, 18, 18, 9"
+    ],
+    "58": [
+        "\nNome: Cério; \nSímbolo: Ce; \nNúmero atômico: 58; \nMassa atômica: 140,1; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Cério; \nSímbolo: Ce; \nZ: 58; \nA: 140,1; \nDistribuição eletrônica: 2, 8, 18, 19, 9"
+    ],
+    "cerio": [
+        "\nNome: Cério; \nSímbolo: Ce; \nNúmero atômico: 58; \nMassa atômica: 140,1; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Cério; \nSímbolo: Ce; \nZ: 58; \nA: 140,1; \nDistribuição eletrônica: 2, 8, 18, 19, 9"
+    ],
+    "59": [
+        "\nNome: Praseodímio; \nSímbolo: Pr; \nNúmero atômico: 59; \nMassa atômica: 140,9; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Praseodímio; \nSímbolo: Pr; \nZ: 59; \nA: 140,9; \nDistribuição eletrônica: 2, 8, 18, 21, 8"
+    ],
+    "praseodimio": [
+        "\nNome: Praseodímio; \nSímbolo: Pr; \nNúmero atômico: 59; \nMassa atômica: 140,9; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Praseodímio; \nSímbolo: Pr; \nZ: 59; \nA: 140,9; \nDistribuição eletrônica: 2, 8, 18, 21, 8"
+    ],
+    "60": [
+        "\nNome: Neodímio; \nSímbolo: Nd; \nNúmero atômico: 60; \nMassa atômica: 144,2; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Neodímio; \nSímbolo: Nd; \nZ: 60; \nA: 144,2; \nDistribuição eletrônica: 2, 8, 18, 22, 8"
+    ],
+    "neodimio": [
+        "\nNome: Neodímio; \nSímbolo: Nd; \nNúmero atômico: 60; \nMassa atômica: 144,2; \nDistribuição eletrônica: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+        "\nNome: Neodímio; \nSímbolo: Nd; \nZ: 60; \nA: 144,2; \nDistribuição eletrônica: 2, 8, 18, 22, 8"
+    ],
 
 }
